@@ -1,6 +1,7 @@
 Machine Learning Analysis of Diabetes, Obesity & Inactivity  
-Predicting Diabetes Prevalence Using Machine Learning Models*
- 📌 Project Overview  
+Predicting Diabetes Prevalence Using Machine Learning Models
+
+📌 Project Overview  
 This project investigates the correlation between diabetes, obesity, and inactivity across U.S. counties using CDC public health data. We implemented Linear Regression, Weighted Least Squares (WLS), and Polynomial Regression to improve predictive accuracy. WLS increased R² from 39.4% to 73.7%, addressing heteroscedasticity. The findings highlight the impact of inactivity (56%) vs. obesity (38%) on diabetes rates.  
 
  📊 Key Findings  
